@@ -101,17 +101,6 @@ The SQL analysis included:
 * **Standard Class** shipping had the longest average delivery time.
 * Over **300 products generated negative total profit**, indicating pricing or discount optimization opportunities.
 
-## Repository Structure
-
-```text
-data/
-notebooks/
-sql/
-powerbi/
-images/
-README.md
-```
-
 ## Author
 
 **Felix Owusu Brobbey**
